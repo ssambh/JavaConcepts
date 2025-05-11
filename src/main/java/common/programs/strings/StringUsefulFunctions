@@ -1,0 +1,12 @@
+##Here I've defined some useful in-built String functions
+---------------------------------------------------------
+String s = "";
+char c = '';
+
+s.replaceAll("\\s",""); -                             Replaces all the white spaces from a string.
+
+s.replaceAll("\\p{Punct}","") -                       Replaces all the punctuations from the string.
+
+Character.isLetterOrDigit(s.charAt(0)) -              Tells whether the provided character is a letter or a digit or something else.
+
+String[] arr = s.split("\\s+") -                      This will split the string into a string array, around all the whitespaces no matter how many spaces you have in between words in the string.

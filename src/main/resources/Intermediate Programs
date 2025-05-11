@@ -1,0 +1,14 @@
+#####----25 Java Programming Interview Questions – Part 2 - Intermediate-----#####
+1. Reverse array in groups based on the given number (Ex if k=3, then reverse the array in groups of 3 from start to end)
+2. Rotate array k number of times
+3. sort an array in a "wave" form (where every alternate element is smaller/larger than the previous element)
+4. Plus One - add 1 to the number formed by an integer array.
+5. Calculate the maximum profit that can be earned by buying(1 transaction) and selling(1 transaction) a stock.
+6. add the digits of a number until there's 1 digit left - AddDigits
+7. Rearrange the elements of an array in alternate +ve and -ve manner without disrupting the natural form of their position - PositiveNegativeRearrange
+** 8. Find the longest common prefix of all the elements of a string array.
+** 9. find if the given string has valid paranthesis.
+**10. find if the given array is cyclic.
+**11. Find a given number using binary search in a rotated sorted array.
+**12. Dutch National Flag problem
+**13. Find if the give abbreviation(string) is valid for the given word(String)

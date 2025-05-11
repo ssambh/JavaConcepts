@@ -1,0 +1,27 @@
+#####----25 Java Programming Interview Questions – Part 1-----#####
+1. Write a Java Program to reverse a String.
+2. Write a Java Program to swap two given Strings
+3. Write a Java Program to print the Fibonacci Series.
+4. Write a Java Program to check if a number is Armstrong number or not.
+5. Write a Java Program to print the sum of digits of a given integer.
+6. Write a Java Program to check if a number is Prime or not.
+7. Write a Java Program to count the number of characters in a given String.
+8. Write a Java Program to find the duplicates of a given String.
+9. Write a Java Program for swapping of 2 numbers.
+10. Write a Java Program to reverse an array?
+11. Write a Java Program to get the count of Capitalized words in a String.
+** 12. Write a Java Program to find the longest consecutive occurrence of integers in a given array.
+13. Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
+14. Write a Java Program to print the product of an array except self?
+15. Write a Java Program to reverse a number using Stack.
+16. Write a Java Program to print the second largest number in a given array.
+17. Write a Java Program to print the first non repeating character in a given String.
+18. Write a Java Program to print the maximum consecutive ones in a given array.
+19. Write a Java Program to print the first and last position of a number in a given array.
+20. Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
+**** Write a Java Program to shift all zeros on the right.
+**** Write a Java Program to remove the duplicates from an array.
+23. Write a Java Program to iterate through the HashMap.
+**** Write a Java Program to convert HashMap to ArrayList.
+25. Write a Java Program to print the missing number in a given Array.
+

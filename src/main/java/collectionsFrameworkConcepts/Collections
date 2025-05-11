@@ -1,0 +1,8 @@
+COLLECTIONS
+-----------
+Collections are generally used for holding and transferring objects.
+
+Collections classes implements serializeable interface.
+
+Cloning is a very common requirement in collections so collections classes
+already implements cloneable interface.
